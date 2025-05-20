@@ -1,0 +1,10 @@
+fastai
+google
+matplotlib
+numpy
+os
+pandas
+seaborn
+sklearn
+torch
+zipfile
